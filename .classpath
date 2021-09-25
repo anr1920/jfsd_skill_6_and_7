@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/byte-buddy-1.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/hibernate-core-5.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/jandex-2.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/javassist-3.27.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/jboss-logging-3.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/ojdbc11.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/youtube/tutorials/eclipse-workspace/hibernateAndJdbcJarFiles/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC  
+ "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+ "https://hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+     <class name="skill6.Employee" table="skill6Employee">
+          <id name = "Empid" type = "int" column = "Empid"/>
+
+          <property name = "Ename" column = "Ename" type = "string"/>
+          <property name = "department" column = "department" type = "string"/>
+          <property name = "age" column = "age" type = "int"/>
+          <property name = "salary" column = "salary" type = "int"/>
+     </class>
+</hibernate-mapping>
